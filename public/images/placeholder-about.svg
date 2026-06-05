@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-label="Placeholder image">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#efece6" />
+      <stop offset="1" stop-color="#cfc5b4" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#g)" />
+  <rect x="48" y="48" width="1104" height="1404" fill="none" stroke="#a5977c" stroke-width="2" opacity="0.45" />
+  <text x="600" y="740" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#847963" letter-spacing="2">Rêve Home</text>
+  <text x="600" y="794" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#847963" letter-spacing="6" opacity="0.8">PLACEHOLDER · SWAP IMAGE</text>
+</svg>

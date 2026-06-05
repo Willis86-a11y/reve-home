@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -L \"https://revehome.dk/\" -o reve_home.html)"
+    ]
+  }
+}
