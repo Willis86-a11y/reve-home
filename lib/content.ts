@@ -123,7 +123,9 @@ export const home = {
   gallery: {
     images: [
       { src: '/images/work-moodboard.png', alt: 'Materialeprøver, farver og teksturer fra et Rêve Home-projekt' },
-      { src: '/images/case-4.jpg', alt: 'Placeholder — detalje fra et Rêve Home-projekt' },
+      { src: '/images/case-4.jpg', alt: 'Detalje fra et Rêve Home-projekt' },
+    { src: '/images/case-5.jpg', alt: 'Interiør fra et Rêve Home-projekt' },
+    { src: '/images/case-6.jpg', alt: 'Boligindretning fra Rêve Home' },
     ] as GalleryImage[],
   },
 
