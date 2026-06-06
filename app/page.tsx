@@ -17,7 +17,7 @@ export default function HomePage() {
       <section className="py-12 sm:py-16 lg:py-20">
         <div className="mx-auto max-w-5xl px-4">
           <iframe
-            src="https://www.youtube.com/embed/qFWrCZ-drcQ?autoplay=1&muted=1&loop=1&playlist=qFWrCZ-drcQ&controls=0"
+            src="https://www.youtube.com/embed/qFWrCZ-drcQ?autoplay=1&mute=1&loop=1&playlist=qFWrCZ-drcQ&controls=0&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&disablekb=1"
             className="w-full rounded-2xl aspect-video"
             allow="autoplay; fullscreen"
             allowFullScreen
