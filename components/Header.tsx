@@ -31,15 +31,15 @@ export default function Header() {
           >
             {site.cta.secondary.label}
           </Link>
-          <Button href={site.cta.primary.href} size="sm">
-            {site.cta.primary.label}
-          </Button>
+          
+            
+          
         </div>
 
         <div className="flex items-center gap-1 md:hidden">
-          <Button href={site.cta.primary.href} size="sm">
-            {site.cta.primary.label}
-          </Button>
+          
+          
+          
           <MobileMenu />
         </div>
       </Container>
